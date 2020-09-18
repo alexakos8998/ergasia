@@ -1,0 +1,1 @@
+In order to read a file form command line using Python, the script you want to use for it needs to accept a CLI argument. For example, say you want to write a cat command in python(a command that dumps all file content on the terminal). In order to do that, you could simply write a program:
